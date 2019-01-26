@@ -1,0 +1,27 @@
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe.config
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.csprojResolveAssemblyReference.cache
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.pdb
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.exe
+C:\Users\Abdias Alvarado\Documents\Visual Studio 2013\Projects\Proyecto Final - Desarrollo de Software 2017\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.pdb
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe.config
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.exe
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.pdb
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.pdb
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.csprojResolveAssemblyReference.cache
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.Resource1.resources
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.csproj.GenerateResource.Cache
+C:\Users\Abdias Alvarado\Desktop\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.Recursos3.resources
+C:\Users\Abdias Alvarado\Desktop\II Período\Desarrollo Software\III Unidad\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe.config
+C:\Users\Abdias Alvarado\Desktop\II Período\Desarrollo Software\III Unidad\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.exe
+C:\Users\Abdias Alvarado\Desktop\II Período\Desarrollo Software\III Unidad\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.pdb
+C:\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe.config
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.exe
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.pdb
+C:\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.exe
+C:\SimuladorFIA\SimuladorFIA\bin\Debug\SimuladorFIA.pdb
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.csprojResolveAssemblyReference.cache
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.Recursos3.resources
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.Resource1.resources
+C:\SimuladorFIA\SimuladorFIA\obj\Debug\SimuladorFIA.csproj.GenerateResource.Cache
